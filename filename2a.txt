@@ -2,3 +2,5 @@ foo0
 #bar
 foo1
 #bar
+foo0
+#bar
