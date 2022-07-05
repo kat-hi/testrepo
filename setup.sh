@@ -1,2 +1,4 @@
 foo0
 #bar
+foo1
+#bar
