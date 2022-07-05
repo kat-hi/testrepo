@@ -6,3 +6,5 @@ foo0
 #bar
 foo0
 #bar
+foo0
+#bar
